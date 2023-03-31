@@ -1,0 +1,22 @@
+h1{
+text-align: center;
+width: 100%;
+margin: auto;
+}
+
+.c{
+
+    width: 25%;
+    margin: auto;
+    height: 300px;
+    background-color: green;
+}
+.tarea{
+    margin-top: 30px;
+    text-align: center;
+}
+.boton{
+    margin-top: 30px;
+    text-align: center;
+    color: brown;
+}
